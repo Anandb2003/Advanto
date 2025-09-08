@@ -25,7 +25,6 @@ Boost your frontend development skills
 
 Website Preview:
 
-🔔 Don't forget to like, comment, and subscribe for more amazing web development tutorials!
 
 
 
